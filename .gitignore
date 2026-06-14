@@ -1,0 +1,11 @@
+node_modules/
+.next/
+.git/
+.netlify/
+*.pyc
+__pycache__/
+.vercel
+.env
+download_full_commit.py
+download_old_commit.py
+restore_all.py
